@@ -1,0 +1,16 @@
+.header-container {
+  background-color: #dbeafe;
+  height: 50px;
+  width: 100%;
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+}
+.logo-image {
+  height: 42px;
+  margin: 15px;
+}
+.logo-name {
+  font-size: 28px;
+  font-family: 'Bree Serif';
+}
